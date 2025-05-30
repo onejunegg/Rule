@@ -1,2 +1,3 @@
 # 自定义直连规则
 DOMAIN-KEYWORD,dynv6
+DOMAIN-KEYWORD,pve.ddns-ip.net
