@@ -1,8 +1,8 @@
-*.dynv6.*
- .dynv6
- .apple
- .icloud
- .woz.ns
- .donna.ns
- .rekordbox
- .nvidia
+# 自定义直连规则
+DOMAIN-KEYWORD,dynv6
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,woz.ns
+DOMAIN-KEYWORD,donna.ns
+DOMAIN-KEYWORD,rekordbox
+DOMAIN-KEYWORD,nvidia
